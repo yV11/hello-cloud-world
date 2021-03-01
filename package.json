@@ -1,0 +1,13 @@
+{
+  "name": "hello-cloud-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yV11/hello-cloud-world.git"
+  },
+  "author": "yV11",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
