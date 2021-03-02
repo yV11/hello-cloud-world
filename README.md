@@ -4,4 +4,4 @@ This repo is only used for a simple hello (cloud) world example to deploy on Mic
 ## Dependencies
 - [x] Node.js
 - [x] Express
-- [x] Microsoft Azure Web Services
+- [x] Microsoft Azure App Services
